@@ -49,4 +49,5 @@ git clone https://github.com/Hitt-1004/taskio.git
 2. Navigate to the project directory:
 cd taskio 
 3. Ensure you have Flutter installed. If not, follow the [Flutter installation instructions](https://flutter.dev/docs/get-started/install).
-4. Run the application on a connected device or emulator:
+4. run: flutter pub get (to get all the dependencies). 
+5. Run the application on a connected device or emulator:
